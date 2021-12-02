@@ -1,5 +1,7 @@
 # subtitle_bender
-A python program to convert a vtt subtitle file into a text file, ONE SENTENCE PER LINE. Useful for creating flashcards from subtitles for language learning.
+A python program to convert a .VTT subtitle file into a text file, ONE SENTENCE PER LINE. 
+
+Useful for creating flashcards from subtitles for language learning.
 
 ## HOW TO USE
 
